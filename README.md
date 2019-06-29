@@ -5,7 +5,11 @@ offer-coding-interviews-python
 
 在线阅读[请戳这里](https://codingcat.cn/article/57)
 
+现已添加PDF版，离线阅读也ok～
+
 在线编码可以去[牛客网专区](https://www.nowcoder.com/ta/coding-interviews)
+
+**本仓库只收录了Python语言的题解和题目的简单分析，仅供学习交流使用，更多关于面试的知识、算法题的思路，以及一些题目的详细解答和推导，还请参阅《剑指Offer》这本书，多多支持下原作者。**
 
 ## 目录
 
@@ -30,7 +34,7 @@ offer-coding-interviews-python
 
 | 查找和排序 | 旋转数组的最小数字
 
-###第4篇
+### 第4篇
 
 | 递归和循环 | 斐波那契数列
 
